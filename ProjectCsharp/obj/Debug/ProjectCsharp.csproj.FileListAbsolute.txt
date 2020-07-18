@@ -1,0 +1,28 @@
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe.config
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.pdb
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Properties.Resources.resources
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.GenerateResource.Cache
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.exe
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.pdb
+c:\users\portia andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmInheritance.resources
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\bin\Debug\products.mdb
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmLogin.resources
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmMain.resources
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmUsers.resources
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmProducts.resources
+C:\Users\Portia Andile\documents\visual studio 2013\Projects\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csprojResolveAssemblyReference.cache
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\bin\Debug\products.mdb
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe.config
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.pdb
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csprojAssemblyReference.cache
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmLogin.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmMain.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmUsers.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmProducts.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.frmInheritance.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Properties.Resources.resources
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.GenerateResource.cache
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.exe
+C:\Users\pmokh\Documents\Visual Studio 2019\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.pdb
